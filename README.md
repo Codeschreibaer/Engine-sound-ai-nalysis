@@ -29,8 +29,6 @@ Application: The solution will be employed in vehicle maintenance and repair, be
 ## Challenges
 
 The current concept's weakness lies in internet connectivity, especially in underdeveloped regions and humanitarian applications. The challenge is to develop a practical and conceptual solution that optimally utilizes the handheld device's storage capacity in regional contexts and minimizes dependency on the internet.
-Future Possibilities: In the future, I could expand the project to cover other vehicle types or specific diagnostic functionalities, offering a more comprehensive solution for vehicle maintenance and repair.
-
 
 ## What next?
 
