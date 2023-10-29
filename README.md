@@ -22,7 +22,7 @@ The solution enables fast and precise diagnosis of vehicle issues by recording e
 
 
 ## Data sources and AI methods
-: Data sources include sound files from vehicles, engines, or transmissions of a specific type. Quality and availability of sound data are essential. I will employ AI techniques for pattern recognition and analyzing deviations in sound profiles.
+Data sources include sound files from vehicles, engines, or transmissions of a specific type. Quality and availability of sound data are essential. I will employ AI techniques for pattern recognition and analyzing deviations in sound profiles.
 Application: The solution will be employed in vehicle maintenance and repair, benefiting vehicle owners and fleet operators. Thanks to its suitability for regions with limited infrastructure for vehicle analysis, such as emergency areas and developing countries, it serves not only commercial but also humanitarian purposes by enhancing vehicle safety and reliability.
 
 
@@ -37,5 +37,5 @@ In the future, I could expand the project to cover other vehicle types or specif
 
 ## Acknowledgments
 
-The basic idea for our project was inspired by a Bavarian inventor 
+The basic idea for our project was inspired by Bavarian inventor 
 Michael Schmutzenhofer who successfully detects odometer manipulations through sound analysis (though using ultrasound). Proper credit will be given to all utilized sources and resources, especially if accessing open-source data or code.
