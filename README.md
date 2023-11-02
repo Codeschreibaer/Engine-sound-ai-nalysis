@@ -13,7 +13,7 @@ The concept revolves around identifying distinctive features within the sound pr
 
 ## Background
 
-Vehicle issues, particularly related to engines and transmissions, are frequent occurrences and can lead to costly repairs. My motivation lies in offering a solution that contributes to early issue detection and, as a result, cost savings. This approach has the potential to address issues in areas with limited vehicle maintenance infrastructure, making it essential.
+Vehicle issues, particularly those related to engines and transmissions, are common occurrences and can lead to costly repairs. My motivation stems from the desire to provide a solution that contributes to the early detection of problems, thereby preventing more severe and expensive damage. Additionally, the diagnostic process is likely to be cost-effective as well, compared to inspections that may require complex dismantling work. Moreover, considering that on-site inspections may not even be feasible in certain areas, this approach has the potential to address issues in regions with limited vehicle maintenance infrastructure, making it indispensable.
 
 
 ## How is it used?
